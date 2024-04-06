@@ -1,0 +1,21 @@
+{
+  "home": {
+    "sidebar": {
+      "trending": "প্রবণতা",
+      "newRelease": "নতুন রিলিজ",
+      "comingSoon": "শিগ্রই আসছে",
+      "favourites": "পছন্দ সমূহ",
+      "watchLater": "পরে দেখুন"
+    },
+    "detailsButton": "বিস্তারিত"
+  },
+  "movieDetails": {
+    "streamButton": "HD তে দেখুন",
+    "downloadButton": "HD তে ডাউনলোড করুন",
+    "releaseDate": "রিলিজ তারিখ",
+    "averageVote": "এভারেজ ভোট",
+    "voteCount": "ভোট গণনা",
+    "popularity": "জনপ্রিয়তা"
+  },
+  "copyright": "কপিরাইট ©২০২৪ | লার্ন উইথ সুমিত দ্বারা সর্বস্বত্ব সংরক্ষিত। "
+}

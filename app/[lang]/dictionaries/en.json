@@ -1,0 +1,21 @@
+{
+  "home": {
+    "sidebar": {
+      "trending": "Trending",
+      "newRelease": "New Release",
+      "comingSoon": "Coming Soon",
+      "favourites": "Favourites",
+      "watchLater": "Watch Later"
+    },
+    "detailsButton": "Details"
+  },
+  "movieDetails": {
+    "streamButton": "Stream in HD",
+    "downloadButton": "Download in HD",
+    "releaseDate": "Release Date",
+    "averageVote": "Average Vote",
+    "voteCount": "Vote Count",
+    "popularity": "Popularity"
+  },
+  "copyright": "Copyright ©2024 | All rights reserved by Learn with Sumit."
+}
